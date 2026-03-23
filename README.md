@@ -2,7 +2,7 @@
 flowchart TD
     A[Start] --> B[Login to OTC Tool]
     B --> C[Upload Document]
-    C --> D[Run Check]
+    C --> D[Run the tool]
     D --> E{Are Issues Flagged?}
     E -->|Yes| F[Review Issues]
     F --> G[Escalate to Compliance]
