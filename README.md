@@ -1,7 +1,7 @@
 ```mermaid
 flowchart LR
     %% Node Definitions
-    Start([<b>Upload PDF]):::blue
+    Start([<b>Upload File]):::blue
     Run[<b>Run]:::blue
     Decisions{<b>Audit Result</b>}:::logic
     
